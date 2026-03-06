@@ -1,0 +1,13 @@
+src/
+tests/
+docs/
+tasks.md
+CLAUDE.md
+.github/
+.gitignore
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+bun.lock
+package-lock.json
+*.tgz
