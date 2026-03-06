@@ -68,15 +68,15 @@
     "update-banner",
     "hot-reload"
   ],
-  "author": "anusoft",
+  "author": "1moby",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anusoft/react-sw-updater.git"
+    "url": "git+https://github.com/1moby/react-sw-updater.git"
   },
-  "homepage": "https://github.com/anusoft/react-sw-updater#readme",
+  "homepage": "https://github.com/1moby/react-sw-updater#readme",
   "bugs": {
-    "url": "https://github.com/anusoft/react-sw-updater/issues"
+    "url": "https://github.com/1moby/react-sw-updater/issues"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.9.1",
